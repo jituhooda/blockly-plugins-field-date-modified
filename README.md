@@ -1,4 +1,4 @@
-# @blockly/field-date [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
+# blockly-field-date-modified [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
 
 A [Blockly](https://www.npmjs.com/package/blockly) date picker field that uses the Google Closure date picker ([goog.ui.DatePicker](https://google.github.io/closure-library/source/closure/goog/demos/)).
 
@@ -6,12 +6,12 @@ A [Blockly](https://www.npmjs.com/package/blockly) date picker field that uses t
 
 ### Yarn
 ```
-yarn add @blockly/field-date
+yarn add blockly-field-date-modified
 ```
 
 ### npm
 ```
-npm install @blockly/field-date --save
+npm install blockly-field-date-modified --save
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ npm install @blockly/field-date --save
 ### JavaScript
 ```js
 import * as Blockly from 'blockly';
-import FieldDate from '@blockly/field-date';
+import FieldDate from 'blockly-field-date-modified';
 
 Blockly.Blocks["test_fields_date"] = {
   init: function () {
@@ -33,7 +33,7 @@ Blockly.Blocks["test_fields_date"] = {
 
 ```js
 import * as Blockly from 'blockly';
-import '@blockly/field-date';
+import 'blockly-field-date-modified';
 
 Blockly.defineBlocksWithJsonArray([
     {

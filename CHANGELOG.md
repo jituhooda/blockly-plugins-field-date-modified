@@ -3,23 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-## [6.0.2](https://github.com/google/blockly-samples/compare/@blockly/field-date@6.0.1...@blockly/field-date@6.0.2) (2022-10-27)
+## [6.0.2](https://github.com/google/blockly-samples/compare/blockly-field-date-modified@6.0.1...blockly-field-date-modified@6.0.2) (2022-10-27)
 
-**Note:** Version bump only for package @blockly/field-date
-
-
-
-
-
-## [6.0.1](https://github.com/google/blockly-samples/compare/@blockly/field-date@6.0.0...@blockly/field-date@6.0.1) (2022-10-13)
-
-**Note:** Version bump only for package @blockly/field-date
+**Note:** Version bump only for package blockly-field-date-modified
 
 
 
 
 
-## [6.0.0](https://github.com/google/blockly-samples/compare/@blockly/field-date@5.0.22...@blockly/field-date@6.0.0) (2022-10-05)
+## [6.0.1](https://github.com/google/blockly-samples/compare/blockly-field-date-modified@6.0.0...blockly-field-date-modified@6.0.1) (2022-10-13)
+
+**Note:** Version bump only for package blockly-field-date-modified
+
+
+
+
+
+## [6.0.0](https://github.com/google/blockly-samples/compare/blockly-field-date-modified@5.0.22...blockly-field-date-modified@6.0.0) (2022-10-05)
 
 
 ### ⚠ BREAKING CHANGES
@@ -63,7 +63,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 5.0.19 (2022-07-21)
 
-**Note:** Version bump only for package @blockly/field-date
+**Note:** Version bump only for package blockly-field-date-modified
 
 
 
@@ -93,7 +93,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 ## 5.0.16 (2022-06-21)
 
-**Note:** Version bump only for package @blockly/field-date
+**Note:** Version bump only for package blockly-field-date-modified
 
 
 
