@@ -1,5 +1,5 @@
 {
-  "name": "blockly-field-date-modified",
+  "name": "@instant-ar/blockly-field-date-modified",
   "version": "6.0.4",
   "description": "A Blockly date picker field that uses the Google Closure date picker.",
   "scripts": {
